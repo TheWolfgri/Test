@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Oui, ma gâtée, RS4 gris nardo, bien sûr qu'ils m'ont raté (gros, bien sûr)
 Soleil dans la bulle, sur le Prado, Shifter pro' (Shifter pro')
 Contre-sens (ah), ma chérie, tu es à contre-sens
@@ -98,3 +99,6 @@ En bande organisée, personne peut nous canaliser
 Dans la zone, ça fume la fusée, pistés par les banalisées
 Hasta luego, fais-en un, hasta luego, fais-en deux
 Hasta luego, ouh, ouh, hasta luego, bam, bam
+=======
+t mauvais bg
+>>>>>>> 1f805fdacadc502bf07d735df3c67c1fd4642c3c
