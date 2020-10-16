@@ -1,5 +1,5 @@
 # Test
 C'est un test tkt bb
-JoJo
+JoJo ジョジョ
 
 stage all change/ commit main/ pull / push
